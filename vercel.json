@@ -1,0 +1,5 @@
+{
+  "rootDirectory": "3d-portfolio",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
